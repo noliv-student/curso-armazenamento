@@ -1,1 +1,1 @@
-# curso-armazenamento
+# alura-armazenando-na-web
